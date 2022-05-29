@@ -28,8 +28,8 @@ const int gpio15 = 15;   //GPIO 15
 Servo servo; 
 const int servomotor = 1 ; //GPIO 1
 
-const char* ssid = "IZZI-D0F7";         //conexion a red 
-const char* password = "9CC8FC7AD0F7";  //contraseña asociada 
+const char* ssid = "INFINITUM3F86";         //conexion a red 
+const char* password = "AHFpFrx474";  //contraseña asociada 
 const char* mqtt_server = "192.168.0.8";    //dirección del servidor mqtt mosquitto
 
 
